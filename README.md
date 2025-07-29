@@ -28,6 +28,8 @@ I enjoy building visually appealing and responsive websites, capturing moments w
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![phpMyAdmin](https://img.shields.io/badge/-phpMyAdmin-6C78AF?style=flat)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/-Golang-00ADD8?style=flat&logo=go&logoColor=white)
 
 ---
 
@@ -47,3 +49,9 @@ I enjoy building visually appealing and responsive websites, capturing moments w
 
 If you want to collaborate, share ideas, or just say hi — feel free to reach out via [LinkedIn](https://linkedin.com/samuel-mahanaim-sinurat).  
 Always happy to learn and grow together 🚀
+
+---
+
+## 📊 GitHub Stats
+
+![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=SamAscend&show_icons=true&theme=dark)
