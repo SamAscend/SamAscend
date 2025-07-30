@@ -68,8 +68,6 @@ I’m always open to exciting projects and new challenges 🚀
 
 ![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=SamAscend&show_icons=true&theme=dark)
 
-### 🐍 Snake GitHub Contribution Graph
-
-![snake gif](https://raw.githubusercontent.com/SamAscend/SamAscend/output/github-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/SamAscend/SamAscend/output/github-contribution-grid-snake.svg)
 
 
