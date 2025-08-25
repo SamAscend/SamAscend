@@ -2,7 +2,7 @@
 
 🎓 Undergraduate student majoring in **Information Technology**  
 🏫 Studying at **President University**  
-🔗 [LinkedIn Profile](https://linkedin.com/samuel-mahanaim-sinurat)
+🔗 [LinkedIn Profile]([https://linkedin.com/samuel-mahanaim-sinurat](https://www.linkedin.com/in/samuel-mahanaim-sinurat-25736034a/))
 
 ---
 
